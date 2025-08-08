@@ -466,7 +466,7 @@
   {
     "rank": 28,
     "name": "João Neves",
-    "position": "Defensive Midfield",
+    "position": "Central Midfield",
     "age": 20,
     "nationalities": [
       "Portugal"
@@ -714,8 +714,8 @@
       "https://tmssl.akamaized.net//images/flagge/verysmall/147.png?lm=1520611569",
       "https://tmssl.akamaized.net//images/flagge/verysmall/178.png?lm=1521635893"
     ],
-    "club": "Sporting CP",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/336.png?lm=1621513752",
+    "club": "Arsenal FC",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/11.png?lm=1489787850",
     "market_value_eur": 7500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/325443-1737581896.jpg?lm=1"
   },
@@ -723,7 +723,7 @@
     "rank": 43,
     "name": "Marcus Thuram",
     "position": "Centre-Forward",
-    "age": 27,
+    "age": 28,
     "nationalities": [
       "France",
       "Guadeloupe"
@@ -773,7 +773,7 @@
     "rank": 46,
     "name": "Harry Kane",
     "position": "Centre-Forward",
-    "age": 31,
+    "age": 32,
     "nationalities": [
       "England"
     ],
@@ -882,8 +882,8 @@
     "nationality_flags": [
       "https://tmssl.akamaized.net//images/flagge/verysmall/83.png?lm=1520611569"
     ],
-    "club": "Liverpool FC",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/31.png?lm=1727873452",
+    "club": "Bayern Munich",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/27.png?lm=1729503608",
     "market_value_eur": 7000000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/480692-1697903145.jpg?lm=1"
   },
@@ -916,8 +916,8 @@
     "nationality_flags": [
       "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569"
     ],
-    "club": "SSC Napoli",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/6195.png?lm=1753167643",
+    "club": "Galatasaray",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/141.png?lm=1406739071",
     "market_value_eur": 7000000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/401923-1737730981.jpg?lm=1"
   },
@@ -1059,7 +1059,7 @@
     "rank": 63,
     "name": "Gavi",
     "position": "Central Midfield",
-    "age": 20,
+    "age": 21,
     "nationalities": [
       "Spain"
     ],
@@ -1143,7 +1143,7 @@
     "rank": 68,
     "name": "Tijjani Reijnders",
     "position": "Central Midfield",
-    "age": 26,
+    "age": 27,
     "nationalities": [
       "Netherlands"
     ],
@@ -1397,7 +1397,7 @@
     "rank": 83,
     "name": "Morgan Rogers",
     "position": "Attacking Midfield",
-    "age": 22,
+    "age": 23,
     "nationalities": [
       "England"
     ],
@@ -1449,7 +1449,7 @@
     "rank": 86,
     "name": "Bryan Mbeumo",
     "position": "Right Winger",
-    "age": 25,
+    "age": 26,
     "nationalities": [
       "Cameroon",
       "France"
@@ -1555,7 +1555,7 @@
     "rank": 92,
     "name": "Jamie Gittens",
     "position": "Left Winger",
-    "age": 20,
+    "age": 21,
     "nationalities": [
       "England",
       "Barbados"
@@ -2012,7 +2012,7 @@
   {
     "rank": 119,
     "name": "Geovany Quenda",
-    "position": "Left Winger",
+    "position": "Right Winger",
     "age": 18,
     "nationalities": [
       "Portugal",
@@ -2064,7 +2064,7 @@
   {
     "rank": 122,
     "name": "Arda Güler",
-    "position": "Right Winger",
+    "position": "Attacking Midfield",
     "age": 20,
     "nationalities": [
       "Türkiye"
@@ -2219,7 +2219,7 @@
     "rank": 131,
     "name": "Mohammed Kudus",
     "position": "Right Winger",
-    "age": 24,
+    "age": 25,
     "nationalities": [
       "Ghana"
     ],
@@ -2315,7 +2315,7 @@
     "club": "VfB Stuttgart",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/79.png?lm=1680587427",
     "market_value_eur": 4500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/443710-1723707618.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/443710-1753308094.jpg?lm=1"
   },
   {
     "rank": 137,
@@ -3071,7 +3071,7 @@
     "rank": 182,
     "name": "Brahim Díaz",
     "position": "Right Winger",
-    "age": 25,
+    "age": 26,
     "nationalities": [
       "Morocco",
       "Spain"
@@ -3282,8 +3282,8 @@
       "https://tmssl.akamaized.net//images/flagge/verysmall/122.png?lm=1520611569",
       "https://tmssl.akamaized.net//images/flagge/verysmall/260.png?lm=1520611569"
     ],
-    "club": "Ajax Amsterdam",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/610.png?lm=1750408025",
+    "club": "Chelsea FC",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/631.png?lm=1682435911",
     "market_value_eur": 3500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/904802-1701361717.jpg?lm=1"
   },
@@ -3416,8 +3416,8 @@
     "nationality_flags": [
       "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569"
     ],
-    "club": "Feyenoord Rotterdam",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/234.png?lm=1721654567",
+    "club": "Olympique Marseille",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/244.png?lm=1485642163",
     "market_value_eur": 3500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/653610-1723200804.jpg?lm=1"
   },
@@ -3433,7 +3433,7 @@
       "https://tmssl.akamaized.net//images/flagge/verysmall/83.png?lm=1520611569"
     ],
     "club": "Fenerbahce",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/36.png?lm=1406739123",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/36.png?lm=1753429185",
     "market_value_eur": 3500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/649317-1753257202.jpg?lm=1"
   },
@@ -3754,8 +3754,8 @@
       "https://tmssl.akamaized.net//images/flagge/verysmall/148.png?lm=1520611569",
       "https://tmssl.akamaized.net//images/flagge/verysmall/149.png?lm=1520611569"
     ],
-    "club": "Bologna FC 1909",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/1025.png?lm=1626441324",
+    "club": "Nottingham Forest",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/703.png?lm=1598890289",
     "market_value_eur": 3500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/365108-1718218474.jpg?lm=1"
   },
@@ -3795,7 +3795,7 @@
     "rank": 225,
     "name": "Antonee Robinson",
     "position": "Left-Back",
-    "age": 27,
+    "age": 28,
     "nationalities": [
       "United States",
       "England"
@@ -3875,7 +3875,7 @@
     "club": "Eintracht Frankfurt",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/24.png?lm=1700074979",
     "market_value_eur": 3500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/333647-1698840239.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/333647-1753985077.jpg?lm=1"
   },
   {
     "rank": 230,
@@ -4063,7 +4063,7 @@
     "rank": 241,
     "name": "Ardon Jashari",
     "position": "Defensive Midfield",
-    "age": 22,
+    "age": 23,
     "nationalities": [
       "Switzerland",
       "North Macedonia"
@@ -4072,8 +4072,8 @@
       "https://tmssl.akamaized.net//images/flagge/verysmall/148.png?lm=1520611569",
       "https://tmssl.akamaized.net//images/flagge/verysmall/100.png?lm=1520611569"
     ],
-    "club": "Club Brugge KV",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/2282.png?lm=1716279106",
+    "club": "AC Milan",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/5.png?lm=1605166627",
     "market_value_eur": 3200000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/608172-1734438792.jpg?lm=1"
   },
