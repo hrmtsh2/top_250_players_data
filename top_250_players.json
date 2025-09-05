@@ -91,7 +91,7 @@
     "rank": 6,
     "name": "Bukayo Saka",
     "position": "Right Winger",
-    "age": 23,
+    "age": 24,
     "nationalities": [
       "England",
       "Nigeria"
@@ -636,7 +636,7 @@
   {
     "rank": 38,
     "name": "Josko Gvardiol",
-    "position": "Left-Back",
+    "position": "Centre-Back",
     "age": 23,
     "nationalities": [
       "Croatia"
@@ -2850,7 +2850,7 @@
   {
     "rank": 169,
     "name": "Brennan Johnson",
-    "position": "Right Winger",
+    "position": "Left Winger",
     "age": 24,
     "nationalities": [
       "Wales",
@@ -3608,7 +3608,7 @@
   {
     "rank": 214,
     "name": "Andrea Cambiaso",
-    "position": "Left-Back",
+    "position": "Left Midfield",
     "age": 25,
     "nationalities": [
       "Italy"
