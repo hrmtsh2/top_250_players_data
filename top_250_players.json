@@ -775,10 +775,12 @@
     "position": "Centre-Forward",
     "age": 32,
     "nationalities": [
-      "England"
+      "England",
+      "Ireland"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/72.png?lm=1520611569"
     ],
     "club": "Bayern Munich",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/27.png?lm=1729503608",
