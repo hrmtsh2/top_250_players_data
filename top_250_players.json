@@ -2569,10 +2569,12 @@
     "position": "Right-Back",
     "age": 20,
     "nationalities": [
-      "England"
+      "England",
+      "Jamaica"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/76.png?lm=1520611569"
     ],
     "club": "Manchester City",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/281.png?lm=1467356331",
