@@ -418,7 +418,7 @@
   {
     "rank": 25,
     "name": "Ousmane Dembélé",
-    "position": "Right Winger",
+    "position": "Centre-Forward",
     "age": 28,
     "nationalities": [
       "France"
@@ -518,7 +518,7 @@
   {
     "rank": 31,
     "name": "Vitinha",
-    "position": "Central Midfield",
+    "position": "Defensive Midfield",
     "age": 25,
     "nationalities": [
       "Portugal"
@@ -2723,7 +2723,7 @@
     "rank": 161,
     "name": "Mason Greenwood",
     "position": "Right Winger",
-    "age": 23,
+    "age": 24,
     "nationalities": [
       "England"
     ],
