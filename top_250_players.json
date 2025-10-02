@@ -703,6 +703,22 @@
   },
   {
     "rank": 42,
+    "name": "Victor Osimhen",
+    "position": "Centre-Forward",
+    "age": 26,
+    "nationalities": [
+      "Nigeria"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569"
+    ],
+    "club": "Galatasaray",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/141.png?lm=1406739071",
+    "market_value_eur": 7500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/401923-1737730981.jpg?lm=1"
+  },
+  {
+    "rank": 43,
     "name": "Viktor Gyökeres",
     "position": "Centre-Forward",
     "age": 27,
@@ -720,7 +736,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/325443-1737581896.jpg?lm=1"
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "Marcus Thuram",
     "position": "Centre-Forward",
     "age": 28,
@@ -738,7 +754,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/318528-1746041509.jpg?lm=1"
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Trent Alexander-Arnold",
     "position": "Right-Back",
     "age": 26,
@@ -754,7 +770,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/314353-1701680958.jpg?lm=1"
   },
   {
-    "rank": 45,
+    "rank": 46,
     "name": "Nicolò Barella",
     "position": "Central Midfield",
     "age": 28,
@@ -770,7 +786,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/255942-1725531625.jpg?lm=1"
   },
   {
-    "rank": 46,
+    "rank": 47,
     "name": "Harry Kane",
     "position": "Centre-Forward",
     "age": 32,
@@ -788,7 +804,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/132098-1700211169.jpg?lm=1"
   },
   {
-    "rank": 47,
+    "rank": 48,
     "name": "Nico Williams",
     "position": "Left Winger",
     "age": 23,
@@ -806,7 +822,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/709187-1709676169.png?lm=1"
   },
   {
-    "rank": 48,
+    "rank": 49,
     "name": "Bradley Barcola",
     "position": "Left Winger",
     "age": 23,
@@ -824,7 +840,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/708265-1653406915.jpg?lm=1"
   },
   {
-    "rank": 49,
+    "rank": 50,
     "name": "Benjamin Sesko",
     "position": "Centre-Forward",
     "age": 22,
@@ -840,7 +856,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/627442-1713897956.jpg?lm=1"
   },
   {
-    "rank": 50,
+    "rank": 51,
     "name": "Nuno Mendes",
     "position": "Left-Back",
     "age": 23,
@@ -856,7 +872,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/616341-1749417164.jpg?lm=1"
   },
   {
-    "rank": 51,
+    "rank": 52,
     "name": "Xavi Simons",
     "position": "Attacking Midfield",
     "age": 22,
@@ -874,7 +890,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/566931-1729778226.jpg?lm=1"
   },
   {
-    "rank": 52,
+    "rank": 53,
     "name": "Luis Díaz",
     "position": "Left Winger",
     "age": 28,
@@ -890,7 +906,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/480692-1757938077.jpg?lm=1"
   },
   {
-    "rank": 53,
+    "rank": 54,
     "name": "Cody Gakpo",
     "position": "Left Winger",
     "age": 26,
@@ -906,22 +922,6 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/31.png?lm=1727873452",
     "market_value_eur": 7000000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/434675-1682690965.jpg?lm=1"
-  },
-  {
-    "rank": 54,
-    "name": "Victor Osimhen",
-    "position": "Centre-Forward",
-    "age": 26,
-    "nationalities": [
-      "Nigeria"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569"
-    ],
-    "club": "Galatasaray",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/141.png?lm=1406739071",
-    "market_value_eur": 7000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/401923-1737730981.jpg?lm=1"
   },
   {
     "rank": 55,
