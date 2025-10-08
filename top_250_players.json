@@ -315,22 +315,6 @@
   },
   {
     "rank": 19,
-    "name": "Lautaro Martínez",
-    "position": "Centre-Forward",
-    "age": 28,
-    "nationalities": [
-      "Argentina"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569"
-    ],
-    "club": "Inter Milan",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/46.png?lm=1618900989",
-    "market_value_eur": 9500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/406625-1695024988.jpg?lm=1"
-  },
-  {
-    "rank": 20,
     "name": "Désiré Doué",
     "position": "Right Winger",
     "age": 20,
@@ -348,7 +332,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/914562-1667317075.jpg?lm=1"
   },
   {
-    "rank": 21,
+    "rank": 20,
     "name": "Moisés Caicedo",
     "position": "Defensive Midfield",
     "age": 23,
@@ -364,7 +348,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/687626-1660729724.jpg?lm=1"
   },
   {
-    "rank": 22,
+    "rank": 21,
     "name": "Khvicha Kvaratskhelia",
     "position": "Left Winger",
     "age": 24,
@@ -380,7 +364,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/502670-1708553120.jpg?lm=1"
   },
   {
-    "rank": 23,
+    "rank": 22,
     "name": "Raphinha",
     "position": "Left Winger",
     "age": 28,
@@ -398,7 +382,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/411295-1729754479.png?lm=1"
   },
   {
-    "rank": 24,
+    "rank": 23,
     "name": "Ousmane Dembélé",
     "position": "Centre-Forward",
     "age": 28,
@@ -412,6 +396,22 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/583.png?lm=1728026461",
     "market_value_eur": 9000000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/288230-1684148641.jpg?lm=1"
+  },
+  {
+    "rank": 24,
+    "name": "Lautaro Martínez",
+    "position": "Centre-Forward",
+    "age": 28,
+    "nationalities": [
+      "Argentina"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569"
+    ],
+    "club": "Inter Milan",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/46.png?lm=1618900989",
+    "market_value_eur": 8500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/406625-1695024988.jpg?lm=1"
   },
   {
     "rank": 25,
@@ -583,6 +583,24 @@
   },
   {
     "rank": 35,
+    "name": "Kenan Yıldız",
+    "position": "Left Winger",
+    "age": 20,
+    "nationalities": [
+      "Türkiye",
+      "Germany"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/174.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525"
+    ],
+    "club": "Juventus FC",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/506.png?lm=1626441487",
+    "market_value_eur": 7500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/845654-1759822280.jpg?lm=1"
+  },
+  {
+    "rank": 36,
     "name": "Hugo Ekitiké",
     "position": "Centre-Forward",
     "age": 23,
@@ -600,7 +618,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/709726-1758714741.jpg?lm=1"
   },
   {
-    "rank": 36,
+    "rank": 37,
     "name": "Enzo Fernández",
     "position": "Central Midfield",
     "age": 24,
@@ -616,7 +634,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/648195-1669894717.jpg?lm=1"
   },
   {
-    "rank": 37,
+    "rank": 38,
     "name": "Ryan Gravenberch",
     "position": "Defensive Midfield",
     "age": 23,
@@ -634,7 +652,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/478573-1718097194.jpg?lm=1"
   },
   {
-    "rank": 38,
+    "rank": 39,
     "name": "Josko Gvardiol",
     "position": "Centre-Back",
     "age": 23,
@@ -650,7 +668,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/475959-1713391602.jpg?lm=1"
   },
   {
-    "rank": 39,
+    "rank": 40,
     "name": "Omar Marmoush",
     "position": "Centre-Forward",
     "age": 26,
@@ -668,7 +686,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/445939-1747656490.jpg?lm=1"
   },
   {
-    "rank": 40,
+    "rank": 41,
     "name": "Gabriel Magalhães",
     "position": "Centre-Back",
     "age": 27,
@@ -684,7 +702,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/435338-1684162833.jpg?lm=1"
   },
   {
-    "rank": 41,
+    "rank": 42,
     "name": "Aurélien Tchouaméni",
     "position": "Defensive Midfield",
     "age": 25,
@@ -702,7 +720,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/413112-1668500754.jpg?lm=1"
   },
   {
-    "rank": 42,
+    "rank": 43,
     "name": "Victor Osimhen",
     "position": "Centre-Forward",
     "age": 26,
@@ -718,7 +736,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/401923-1737730981.jpg?lm=1"
   },
   {
-    "rank": 43,
+    "rank": 44,
     "name": "Viktor Gyökeres",
     "position": "Centre-Forward",
     "age": 27,
@@ -736,7 +754,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/325443-1737581896.jpg?lm=1"
   },
   {
-    "rank": 44,
+    "rank": 45,
     "name": "Marcus Thuram",
     "position": "Centre-Forward",
     "age": 28,
@@ -754,7 +772,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/318528-1746041509.jpg?lm=1"
   },
   {
-    "rank": 45,
+    "rank": 46,
     "name": "Trent Alexander-Arnold",
     "position": "Right-Back",
     "age": 27,
@@ -768,22 +786,6 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/418.png?lm=1729684474",
     "market_value_eur": 7500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/314353-1701680958.jpg?lm=1"
-  },
-  {
-    "rank": 46,
-    "name": "Nicolò Barella",
-    "position": "Central Midfield",
-    "age": 28,
-    "nationalities": [
-      "Italy"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/75.png?lm=1520611569"
-    ],
-    "club": "Inter Milan",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/46.png?lm=1618900989",
-    "market_value_eur": 7500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/255942-1725531625.jpg?lm=1"
   },
   {
     "rank": 47,
@@ -1043,6 +1045,22 @@
   },
   {
     "rank": 62,
+    "name": "Nicolò Barella",
+    "position": "Central Midfield",
+    "age": 28,
+    "nationalities": [
+      "Italy"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/75.png?lm=1520611569"
+    ],
+    "club": "Inter Milan",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/46.png?lm=1618900989",
+    "market_value_eur": 6500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/255942-1725531625.jpg?lm=1"
+  },
+  {
+    "rank": 63,
     "name": "Estêvão",
     "position": "Right Winger",
     "age": 18,
@@ -1058,7 +1076,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/1056993-1731657826.jpg?lm=1"
   },
   {
-    "rank": 63,
+    "rank": 64,
     "name": "Arda Güler",
     "position": "Attacking Midfield",
     "age": 20,
@@ -1074,7 +1092,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/861410-1699472585.jpg?lm=1"
   },
   {
-    "rank": 64,
+    "rank": 65,
     "name": "Fermín López",
     "position": "Attacking Midfield",
     "age": 22,
@@ -1090,7 +1108,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/636703-1698086824.jpg?lm=1"
   },
   {
-    "rank": 65,
+    "rank": 66,
     "name": "Alejandro Balde",
     "position": "Left-Back",
     "age": 21,
@@ -1106,7 +1124,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/636688-1662836200.jpg?lm=1"
   },
   {
-    "rank": 66,
+    "rank": 67,
     "name": "Oihan Sancet",
     "position": "Attacking Midfield",
     "age": 25,
@@ -1122,7 +1140,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/571020-1709676037.png?lm=1"
   },
   {
-    "rank": 67,
+    "rank": 68,
     "name": "Matheus Cunha",
     "position": "Second Striker",
     "age": 26,
@@ -1138,7 +1156,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/517894-1696599737.jpg?lm=1"
   },
   {
-    "rank": 68,
+    "rank": 69,
     "name": "Tijjani Reijnders",
     "position": "Central Midfield",
     "age": 27,
@@ -1154,7 +1172,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/460939-1676466080.jpg?lm=1"
   },
   {
-    "rank": 69,
+    "rank": 70,
     "name": "Martín Zubimendi",
     "position": "Defensive Midfield",
     "age": 26,
@@ -1168,24 +1186,6 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/11.png?lm=1489787850",
     "market_value_eur": 6000000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/423440-1684149419.jpg?lm=1"
-  },
-  {
-    "rank": 70,
-    "name": "Ademola Lookman",
-    "position": "Second Striker",
-    "age": 27,
-    "nationalities": [
-      "Nigeria",
-      "England"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
-    ],
-    "club": "Atalanta BC",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/800.png?lm=1438547428",
-    "market_value_eur": 6000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/406040-1682076571.jpg?lm=1"
   },
   {
     "rank": 71,
@@ -1223,6 +1223,24 @@
   },
   {
     "rank": 73,
+    "name": "Christian Pulisic",
+    "position": "Right Winger",
+    "age": 27,
+    "nationalities": [
+      "United States",
+      "Croatia"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/37.png?lm=1520611569"
+    ],
+    "club": "AC Milan",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/5.png?lm=1605166627",
+    "market_value_eur": 6000000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/315779-1691696699.jpg?lm=1"
+  },
+  {
+    "rank": 74,
     "name": "Dani Olmo",
     "position": "Attacking Midfield",
     "age": 27,
@@ -1238,7 +1256,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/293385-1711546268.jpg?lm=1"
   },
   {
-    "rank": 74,
+    "rank": 75,
     "name": "Murillo",
     "position": "Centre-Back",
     "age": 23,
@@ -1254,7 +1272,25 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/1005649-1709159139.jpg?lm=1"
   },
   {
-    "rank": 75,
+    "rank": 76,
+    "name": "Nico Paz",
+    "position": "Attacking Midfield",
+    "age": 21,
+    "nationalities": [
+      "Argentina",
+      "Spain"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+    ],
+    "club": "Como 1907",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/1047.png?lm=1565704078",
+    "market_value_eur": 5500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/948294-1699472504.jpg?lm=1"
+  },
+  {
+    "rank": 77,
     "name": "Leny Yoro",
     "position": "Centre-Back",
     "age": 19,
@@ -1272,7 +1308,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/923831-1747857948.jpg?lm=1"
   },
   {
-    "rank": 76,
+    "rank": 78,
     "name": "Ethan Nwaneri",
     "position": "Attacking Midfield",
     "age": 18,
@@ -1290,7 +1326,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/890719-1730794927.jpg?lm=1"
   },
   {
-    "rank": 77,
+    "rank": 79,
     "name": "Warren Zaïre-Emery",
     "position": "Central Midfield",
     "age": 19,
@@ -1308,7 +1344,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/810092-1672303575.jpg?lm=1"
   },
   {
-    "rank": 78,
+    "rank": 80,
     "name": "Aleksandar Pavlovic",
     "position": "Defensive Midfield",
     "age": 21,
@@ -1326,7 +1362,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/792380-1727098078.jpg?lm=1"
   },
   {
-    "rank": 79,
+    "rank": 81,
     "name": "Pablo Barrios",
     "position": "Central Midfield",
     "age": 22,
@@ -1342,7 +1378,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/775605-1699431384.jpg?lm=1"
   },
   {
-    "rank": 80,
+    "rank": 82,
     "name": "Gabriel Martinelli",
     "position": "Left Winger",
     "age": 24,
@@ -1360,7 +1396,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/655488-1682689091.jpg?lm=1"
   },
   {
-    "rank": 81,
+    "rank": 83,
     "name": "Levi Colwill",
     "position": "Centre-Back",
     "age": 22,
@@ -1376,7 +1412,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/614258-1694614507.jpg?lm=1"
   },
   {
-    "rank": 82,
+    "rank": 84,
     "name": "Álex Baena",
     "position": "Left Winger",
     "age": 24,
@@ -1392,7 +1428,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/548111-1714487266.jpg?lm=1"
   },
   {
-    "rank": 83,
+    "rank": 85,
     "name": "Morgan Rogers",
     "position": "Attacking Midfield",
     "age": 23,
@@ -1408,7 +1444,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/503743-1706786450.jpg?lm=1"
   },
   {
-    "rank": 84,
+    "rank": 86,
     "name": "Eberechi Eze",
     "position": "Attacking Midfield",
     "age": 27,
@@ -1426,7 +1462,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/479999-1678466922.jpg?lm=1"
   },
   {
-    "rank": 85,
+    "rank": 87,
     "name": "Jurriën Timber",
     "position": "Right-Back",
     "age": 24,
@@ -1444,7 +1480,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/420243-1702413077.jpg?lm=1"
   },
   {
-    "rank": 86,
+    "rank": 88,
     "name": "Bryan Mbeumo",
     "position": "Right Winger",
     "age": 26,
@@ -1462,7 +1498,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/413039-1668505084.jpg?lm=1"
   },
   {
-    "rank": 87,
+    "rank": 89,
     "name": "Franco Mastantuono",
     "position": "Right Winger",
     "age": 18,
@@ -1480,7 +1516,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/1057316-1755702696.jpg?lm=1"
   },
   {
-    "rank": 88,
+    "rank": 90,
     "name": "Samu Aghehowa",
     "position": "Centre-Forward",
     "age": 21,
@@ -1498,25 +1534,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/991268-1732829288.jpg?lm=1"
   },
   {
-    "rank": 89,
-    "name": "Kenan Yıldız",
-    "position": "Left Winger",
-    "age": 20,
-    "nationalities": [
-      "Türkiye",
-      "Germany"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/174.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525"
-    ],
-    "club": "Juventus FC",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/506.png?lm=1626441487",
-    "market_value_eur": 5000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/845654-1700467996.png?lm=1"
-  },
-  {
-    "rank": 90,
+    "rank": 91,
     "name": "Kobbie Mainoo",
     "position": "Central Midfield",
     "age": 20,
@@ -1534,7 +1552,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/820374-1719349758.jpg?lm=1"
   },
   {
-    "rank": 91,
+    "rank": 92,
     "name": "Álvaro Carreras",
     "position": "Left-Back",
     "age": 22,
@@ -1550,7 +1568,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/811778-1737497415.jpg?lm=1"
   },
   {
-    "rank": 92,
+    "rank": 93,
     "name": "Nicolas Jackson",
     "position": "Centre-Forward",
     "age": 24,
@@ -1568,7 +1586,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/776890-1757939139.jpg?lm=1"
   },
   {
-    "rank": 93,
+    "rank": 94,
     "name": "Savinho",
     "position": "Right Winger",
     "age": 21,
@@ -1584,7 +1602,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/743591-1751367497.jpg?lm=1"
   },
   {
-    "rank": 94,
+    "rank": 95,
     "name": "Jamie Gittens",
     "position": "Left Winger",
     "age": 21,
@@ -1602,7 +1620,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/670882-1736780080.jpg?lm=1"
   },
   {
-    "rank": 95,
+    "rank": 96,
     "name": "Jarrad Branthwaite",
     "position": "Centre-Back",
     "age": 23,
@@ -1618,7 +1636,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/661053-1687975679.jpg?lm=1"
   },
   {
-    "rank": 96,
+    "rank": 97,
     "name": "Piero Hincapié",
     "position": "Centre-Back",
     "age": 23,
@@ -1634,7 +1652,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/659813-1727377918.jpg?lm=1"
   },
   {
-    "rank": 97,
+    "rank": 98,
     "name": "Eduardo Camavinga",
     "position": "Central Midfield",
     "age": 22,
@@ -1652,7 +1670,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/640428-1668500874.jpg?lm=1"
   },
   {
-    "rank": 98,
+    "rank": 99,
     "name": "João Pedro",
     "position": "Centre-Forward",
     "age": 24,
@@ -1668,23 +1686,25 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/626724-1724792744.jpg?lm=1"
   },
   {
-    "rank": 99,
-    "name": "Éderson",
+    "rank": 100,
+    "name": "Manu Koné",
     "position": "Central Midfield",
-    "age": 26,
+    "age": 24,
     "nationalities": [
-      "Brazil"
+      "France",
+      "Cote d'Ivoire"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/38.png?lm=1520611569"
     ],
-    "club": "Atalanta BC",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/800.png?lm=1438547428",
+    "club": "AS Roma",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/12.png?lm=1751979202",
     "market_value_eur": 5000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/607854-1646648856.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/624690-1757931309.jpg?lm=1"
   },
   {
-    "rank": 100,
+    "rank": 101,
     "name": "Micky van de Ven",
     "position": "Centre-Back",
     "age": 24,
@@ -1700,7 +1720,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/557459-1744313600.jpg?lm=1"
   },
   {
-    "rank": 101,
+    "rank": 102,
     "name": "Bremer",
     "position": "Centre-Back",
     "age": 28,
@@ -1716,7 +1736,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/516716-1725531520.jpg?lm=1"
   },
   {
-    "rank": 102,
+    "rank": 103,
     "name": "Pedro Neto",
     "position": "Right Winger",
     "age": 25,
@@ -1732,7 +1752,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/487465-1709158892.jpg?lm=1"
   },
   {
-    "rank": 103,
+    "rank": 104,
     "name": "Jérémy Doku",
     "position": "Left Winger",
     "age": 23,
@@ -1750,7 +1770,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/486049-1743670159.jpg?lm=1"
   },
   {
-    "rank": 104,
+    "rank": 105,
     "name": "Amadou Onana",
     "position": "Defensive Midfield",
     "age": 24,
@@ -1768,7 +1788,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/485706-1718697649.jpg?lm=1"
   },
   {
-    "rank": 105,
+    "rank": 106,
     "name": "Jeremie Frimpong",
     "position": "Right-Back",
     "age": 24,
@@ -1786,7 +1806,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/484547-1689710682.jpg?lm=1"
   },
   {
-    "rank": 106,
+    "rank": 107,
     "name": "Morten Hjulmand",
     "position": "Defensive Midfield",
     "age": 26,
@@ -1802,7 +1822,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/461496-1725633200.jpg?lm=1"
   },
   {
-    "rank": 107,
+    "rank": 108,
     "name": "Dejan Kulusevski",
     "position": "Attacking Midfield",
     "age": 25,
@@ -1820,7 +1840,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/431755-1684943454.jpg?lm=1"
   },
   {
-    "rank": 108,
+    "rank": 109,
     "name": "Morgan Gibbs-White",
     "position": "Attacking Midfield",
     "age": 25,
@@ -1838,7 +1858,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/429014-1687975822.jpg?lm=1"
   },
   {
-    "rank": 109,
+    "rank": 110,
     "name": "Alphonso Davies",
     "position": "Left-Back",
     "age": 24,
@@ -1856,7 +1876,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/424204-1711745534.jpg?lm=1"
   },
   {
-    "rank": 110,
+    "rank": 111,
     "name": "Ferran Torres",
     "position": "Centre-Forward",
     "age": 25,
@@ -1872,7 +1892,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/398184-1699383547.jpg?lm=1"
   },
   {
-    "rank": 111,
+    "rank": 112,
     "name": "Alessandro Buongiorno",
     "position": "Centre-Back",
     "age": 26,
@@ -1886,24 +1906,6 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/6195.png?lm=1753167643",
     "market_value_eur": 5000000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/386446-1663596475.jpg?lm=1"
-  },
-  {
-    "rank": 112,
-    "name": "Loïs Openda",
-    "position": "Centre-Forward",
-    "age": 25,
-    "nationalities": [
-      "Belgium",
-      "Morocco"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/19.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/107.png?lm=1520611569"
-    ],
-    "club": "Juventus FC",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/506.png?lm=1626441487",
-    "market_value_eur": 5000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/368887-1713944805.jpg?lm=1"
   },
   {
     "rank": 113,
@@ -1977,24 +1979,6 @@
   },
   {
     "rank": 117,
-    "name": "Christian Pulisic",
-    "position": "Right Winger",
-    "age": 27,
-    "nationalities": [
-      "United States",
-      "Croatia"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/184.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/37.png?lm=1520611569"
-    ],
-    "club": "AC Milan",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/5.png?lm=1605166627",
-    "market_value_eur": 5000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/315779-1691696699.jpg?lm=1"
-  },
-  {
-    "rank": 118,
     "name": "Bruno Fernandes",
     "position": "Attacking Midfield",
     "age": 31,
@@ -2010,7 +1994,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/240306-1683882766.jpg?lm=1"
   },
   {
-    "rank": 119,
+    "rank": 118,
     "name": "Federico Dimarco",
     "position": "Left-Back",
     "age": 27,
@@ -2026,7 +2010,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/198116-1725531769.jpg?lm=1"
   },
   {
-    "rank": 120,
+    "rank": 119,
     "name": "Mohamed Salah",
     "position": "Right Winger",
     "age": 33,
@@ -2042,7 +2026,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/148455-1727337594.jpg?lm=1"
   },
   {
-    "rank": 121,
+    "rank": 120,
     "name": "Geovany Quenda",
     "position": "Right Winger",
     "age": 18,
@@ -2060,7 +2044,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/1138758-1730207849.jpg?lm=1"
   },
   {
-    "rank": 122,
+    "rank": 121,
     "name": "Ousmane Diomande",
     "position": "Centre-Back",
     "age": 21,
@@ -2076,7 +2060,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/974982-1759778940.jpg?lm=1"
   },
   {
-    "rank": 123,
+    "rank": 122,
     "name": "Myles Lewis-Skelly",
     "position": "Left-Back",
     "age": 19,
@@ -2094,7 +2078,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/890721-1758053582.jpg?lm=1"
   },
   {
-    "rank": 124,
+    "rank": 123,
     "name": "Alejandro Garnacho",
     "position": "Left Winger",
     "age": 21,
@@ -2112,7 +2096,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/811779-1703629085.jpg?lm=1"
   },
   {
-    "rank": 125,
+    "rank": 124,
     "name": "Maghnes Akliouche",
     "position": "Right Winger",
     "age": 23,
@@ -2130,7 +2114,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/745200-1717406573.jpg?lm=1"
   },
   {
-    "rank": 126,
+    "rank": 125,
     "name": "Adam Wharton",
     "position": "Defensive Midfield",
     "age": 21,
@@ -2146,7 +2130,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/744149-1716297290.jpg?lm=1"
   },
   {
-    "rank": 127,
+    "rank": 126,
     "name": "Milos Kerkez",
     "position": "Left-Back",
     "age": 21,
@@ -2164,7 +2148,39 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/730861-1660762995.jpg?lm=1"
   },
   {
+    "rank": 127,
+    "name": "Rasmus Højlund",
+    "position": "Centre-Forward",
+    "age": 22,
+    "nationalities": [
+      "Denmark"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/39.png?lm=1520611569"
+    ],
+    "club": "SSC Napoli",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/6195.png?lm=1753167643",
+    "market_value_eur": 4500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/610442-1757931324.jpg?lm=1"
+  },
+  {
     "rank": 128,
+    "name": "Éderson",
+    "position": "Central Midfield",
+    "age": 26,
+    "nationalities": [
+      "Brazil"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569"
+    ],
+    "club": "Atalanta BC",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/800.png?lm=1438547428",
+    "market_value_eur": 4500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/607854-1646648856.jpg?lm=1"
+  },
+  {
+    "rank": 129,
     "name": "Rayan Cherki",
     "position": "Right Winger",
     "age": 22,
@@ -2182,7 +2198,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/607223-1672831487.jpg?lm=1"
   },
   {
-    "rank": 129,
+    "rank": 130,
     "name": "Mateo Retegui",
     "position": "Centre-Forward",
     "age": 26,
@@ -2200,7 +2216,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/554903-1681311414.jpg?lm=1"
   },
   {
-    "rank": 130,
+    "rank": 131,
     "name": "Gonçalo Inácio",
     "position": "Centre-Back",
     "age": 24,
@@ -2216,7 +2232,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/549006-1716296254.jpg?lm=1"
   },
   {
-    "rank": 131,
+    "rank": 132,
     "name": "Darwin Núñez",
     "position": "Centre-Forward",
     "age": 26,
@@ -2232,7 +2248,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/546543-1681827179.jpg?lm=1"
   },
   {
-    "rank": 132,
+    "rank": 133,
     "name": "Mohammed Kudus",
     "position": "Right Winger",
     "age": 25,
@@ -2248,7 +2264,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/543499-1668429218.jpg?lm=1"
   },
   {
-    "rank": 133,
+    "rank": 134,
     "name": "Amad Diallo",
     "position": "Right Winger",
     "age": 23,
@@ -2266,7 +2282,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/536835-1747857754.jpg?lm=1"
   },
   {
-    "rank": 134,
+    "rank": 135,
     "name": "Jonathan David",
     "position": "Centre-Forward",
     "age": 25,
@@ -2284,7 +2300,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/533738-1751534862.jpg?lm=1"
   },
   {
-    "rank": 135,
+    "rank": 136,
     "name": "Karim Adeyemi",
     "position": "Right Winger",
     "age": 23,
@@ -2302,7 +2318,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/496094-1712859708.jpg?lm=1"
   },
   {
-    "rank": 136,
+    "rank": 137,
     "name": "Manuel Ugarte",
     "position": "Defensive Midfield",
     "age": 24,
@@ -2318,7 +2334,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/476701-1715107512.jpg?lm=1"
   },
   {
-    "rank": 137,
+    "rank": 138,
     "name": "Angelo Stiller",
     "position": "Defensive Midfield",
     "age": 24,
@@ -2334,7 +2350,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/443710-1753308094.jpg?lm=1"
   },
   {
-    "rank": 138,
+    "rank": 139,
     "name": "Curtis Jones",
     "position": "Central Midfield",
     "age": 24,
@@ -2350,7 +2366,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/433188-1701681163.jpg?lm=1"
   },
   {
-    "rank": 139,
+    "rank": 140,
     "name": "Marc Guéhi",
     "position": "Centre-Back",
     "age": 25,
@@ -2368,10 +2384,28 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/392757-1683030598.jpg?lm=1"
   },
   {
-    "rank": 140,
+    "rank": 141,
+    "name": "Loïs Openda",
+    "position": "Centre-Forward",
+    "age": 25,
+    "nationalities": [
+      "Belgium",
+      "Morocco"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/19.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/107.png?lm=1520611569"
+    ],
+    "club": "Juventus FC",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/506.png?lm=1626441487",
+    "market_value_eur": 4500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/368887-1713944805.jpg?lm=1"
+  },
+  {
+    "rank": 142,
     "name": "Ben White",
     "position": "Right-Back",
-    "age": 27,
+    "age": 28,
     "nationalities": [
       "England"
     ],
@@ -2384,7 +2418,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/335721-1683275943.jpg?lm=1"
   },
   {
-    "rank": 141,
+    "rank": 143,
     "name": "Frenkie de Jong",
     "position": "Central Midfield",
     "age": 28,
@@ -2400,7 +2434,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/326330-1746041680.jpg?lm=1"
   },
   {
-    "rank": 142,
+    "rank": 144,
     "name": "Serhou Guirassy",
     "position": "Centre-Forward",
     "age": 29,
@@ -2418,7 +2452,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/270541-1755989642.jpg?lm=1"
   },
   {
-    "rank": 143,
+    "rank": 145,
     "name": "Joshua Kimmich",
     "position": "Defensive Midfield",
     "age": 30,
@@ -2434,7 +2468,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/161056-1700039639.jpg?lm=1"
   },
   {
-    "rank": 144,
+    "rank": 146,
     "name": "Ilya Zabarnyi",
     "position": "Centre-Back",
     "age": 23,
@@ -2450,7 +2484,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/659089-1715881375.jpg?lm=1"
   },
   {
-    "rank": 145,
+    "rank": 147,
     "name": "Anthony Elanga",
     "position": "Right Winger",
     "age": 23,
@@ -2468,7 +2502,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/583189-1700739021.jpg?lm=1"
   },
   {
-    "rank": 146,
+    "rank": 148,
     "name": "Sven Botman",
     "position": "Centre-Back",
     "age": 25,
@@ -2484,7 +2518,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/361093-1683290679.jpg?lm=1"
   },
   {
-    "rank": 147,
+    "rank": 149,
     "name": "James Maddison",
     "position": "Attacking Midfield",
     "age": 28,
@@ -2500,7 +2534,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/294057-1687982662.jpg?lm=1"
   },
   {
-    "rank": 148,
+    "rank": 150,
     "name": "Carlos Baleba",
     "position": "Defensive Midfield",
     "age": 21,
@@ -2516,7 +2550,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/973085-1666690662.jpg?lm=1"
   },
   {
-    "rank": 149,
+    "rank": 151,
     "name": "Rodrigo Mora",
     "position": "Attacking Midfield",
     "age": 18,
@@ -2532,7 +2566,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/957653-1758830632.jpg?lm=1"
   },
   {
-    "rank": 150,
+    "rank": 152,
     "name": "Hugo Larsson",
     "position": "Central Midfield",
     "age": 21,
@@ -2548,7 +2582,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/931838-1696509259.jpg?lm=1"
   },
   {
-    "rank": 151,
+    "rank": 153,
     "name": "João Gomes",
     "position": "Central Midfield",
     "age": 24,
@@ -2564,7 +2598,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/735570-1675092223.jpg?lm=1"
   },
   {
-    "rank": 152,
+    "rank": 154,
     "name": "Rico Lewis",
     "position": "Right-Back",
     "age": 20,
@@ -2582,7 +2616,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/701057-1684856684.jpg?lm=1"
   },
   {
-    "rank": 153,
+    "rank": 155,
     "name": "Victor Boniface",
     "position": "Centre-Forward",
     "age": 24,
@@ -2598,7 +2632,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/656681-1758702484.jpg?lm=1"
   },
   {
-    "rank": 154,
+    "rank": 156,
     "name": "Gavi",
     "position": "Central Midfield",
     "age": 21,
@@ -2614,7 +2648,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/646740-1682685701.jpg?lm=1"
   },
   {
-    "rank": 155,
+    "rank": 157,
     "name": "Roméo Lavia",
     "position": "Defensive Midfield",
     "age": 21,
@@ -2630,25 +2664,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/628451-1683898478.jpg?lm=1"
   },
   {
-    "rank": 156,
-    "name": "Manu Koné",
-    "position": "Central Midfield",
-    "age": 24,
-    "nationalities": [
-      "France",
-      "Cote d'Ivoire"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/38.png?lm=1520611569"
-    ],
-    "club": "AS Roma",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/12.png?lm=1751979202",
-    "market_value_eur": 4000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/624690-1757931309.jpg?lm=1"
-  },
-  {
-    "rank": 157,
+    "rank": 158,
     "name": "Castello Lukeba",
     "position": "Centre-Back",
     "age": 22,
@@ -2666,7 +2682,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/618472-1713897532.jpg?lm=1"
   },
   {
-    "rank": 158,
+    "rank": 159,
     "name": "Liam Delap",
     "position": "Centre-Forward",
     "age": 22,
@@ -2684,7 +2700,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/610849-1746646306.jpg?lm=1"
   },
   {
-    "rank": 159,
+    "rank": 160,
     "name": "Antoine Semenyo",
     "position": "Right Winger",
     "age": 25,
@@ -2702,7 +2718,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/583255-1737452028.jpg?lm=1"
   },
   {
-    "rank": 160,
+    "rank": 161,
     "name": "Destiny Udogie",
     "position": "Left-Back",
     "age": 22,
@@ -2720,7 +2736,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/556385-1697208468.jpg?lm=1"
   },
   {
-    "rank": 161,
+    "rank": 162,
     "name": "Gonçalo Ramos",
     "position": "Centre-Forward",
     "age": 24,
@@ -2736,7 +2752,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/550550-1681906158.jpg?lm=1"
   },
   {
-    "rank": 162,
+    "rank": 163,
     "name": "Mason Greenwood",
     "position": "Right Winger",
     "age": 24,
@@ -2752,7 +2768,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/532826-1693987766.jpg?lm=1"
   },
   {
-    "rank": 163,
+    "rank": 164,
     "name": "Dani Vivian",
     "position": "Centre-Back",
     "age": 26,
@@ -2768,7 +2784,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/524000-1709674998.png?lm=1"
   },
   {
-    "rank": 164,
+    "rank": 165,
     "name": "Kaoru Mitoma",
     "position": "Left Winger",
     "age": 28,
@@ -2784,7 +2800,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/504849-1731683095.jpg?lm=1"
   },
   {
-    "rank": 165,
+    "rank": 166,
     "name": "Noni Madueke",
     "position": "Right Winger",
     "age": 23,
@@ -2802,7 +2818,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/503987-1683102348.jpg?lm=1"
   },
   {
-    "rank": 166,
+    "rank": 167,
     "name": "Tino Livramento",
     "position": "Right-Back",
     "age": 22,
@@ -2820,7 +2836,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/503981-1699383321.jpg?lm=1"
   },
   {
-    "rank": 167,
+    "rank": 168,
     "name": "Min-jae Kim",
     "position": "Centre-Back",
     "age": 28,
@@ -2836,7 +2852,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/503482-1700208062.jpg?lm=1"
   },
   {
-    "rank": 168,
+    "rank": 169,
     "name": "Conor Gallagher",
     "position": "Central Midfield",
     "age": 25,
@@ -2852,7 +2868,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/488362-1668500476.jpg?lm=1"
   },
   {
-    "rank": 169,
+    "rank": 170,
     "name": "Lisandro Martínez",
     "position": "Centre-Back",
     "age": 27,
@@ -2868,7 +2884,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/480762-1680681507.jpg?lm=1"
   },
   {
-    "rank": 170,
+    "rank": 171,
     "name": "Brennan Johnson",
     "position": "Right Winger",
     "age": 24,
@@ -2886,9 +2902,9 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/470607-1692959021.jpg?lm=1"
   },
   {
-    "rank": 171,
+    "rank": 172,
     "name": "Nico González",
-    "position": "Central Midfield",
+    "position": "Defensive Midfield",
     "age": 23,
     "nationalities": [
       "Spain"
@@ -2902,7 +2918,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/466805-1743669968.jpg?lm=1"
   },
   {
-    "rank": 172,
+    "rank": 173,
     "name": "Khéphren Thuram",
     "position": "Central Midfield",
     "age": 24,
@@ -2920,7 +2936,25 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/463618-1683889273.jpg?lm=1"
   },
   {
-    "rank": 173,
+    "rank": 174,
+    "name": "Ademola Lookman",
+    "position": "Second Striker",
+    "age": 27,
+    "nationalities": [
+      "Nigeria",
+      "England"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/124.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
+    ],
+    "club": "Atalanta BC",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/800.png?lm=1438547428",
+    "market_value_eur": 4000000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/406040-1682076571.jpg?lm=1"
+  },
+  {
+    "rank": 175,
     "name": "Exequiel Palacios",
     "position": "Central Midfield",
     "age": 27,
@@ -2936,7 +2970,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/401578-1695368200.jpg?lm=1"
   },
   {
-    "rank": 174,
+    "rank": 176,
     "name": "Boubacar Kamara",
     "position": "Defensive Midfield",
     "age": 25,
@@ -2954,7 +2988,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/394327-1736160460.jpg?lm=1"
   },
   {
-    "rank": 175,
+    "rank": 177,
     "name": "Nico Schlotterbeck",
     "position": "Centre-Back",
     "age": 25,
@@ -2970,7 +3004,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/388198-1709560457.jpg?lm=1"
   },
   {
-    "rank": 176,
+    "rank": 178,
     "name": "Diogo Costa",
     "position": "Goalkeeper",
     "age": 26,
@@ -2988,7 +3022,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/357153-1716296015.jpg?lm=1"
   },
   {
-    "rank": 177,
+    "rank": 179,
     "name": "Fabián Ruiz",
     "position": "Central Midfield",
     "age": 29,
@@ -3004,7 +3038,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/350219-1718958379.jpg?lm=1"
   },
   {
-    "rank": 178,
+    "rank": 180,
     "name": "Ollie Watkins",
     "position": "Centre-Forward",
     "age": 29,
@@ -3020,7 +3054,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/324358-1708341279.jpg?lm=1"
   },
   {
-    "rank": 179,
+    "rank": 181,
     "name": "Gianluigi Donnarumma",
     "position": "Goalkeeper",
     "age": 26,
@@ -3036,7 +3070,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/315858-1672304477.jpg?lm=1"
   },
   {
-    "rank": 180,
+    "rank": 182,
     "name": "Jarrod Bowen",
     "position": "Right Winger",
     "age": 28,
@@ -3052,7 +3086,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/314875-1662362005.jpg?lm=1"
   },
   {
-    "rank": 181,
+    "rank": 183,
     "name": "Brahim Díaz",
     "position": "Right Winger",
     "age": 26,
@@ -3070,7 +3104,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/314678-1744193327.jpg?lm=1"
   },
   {
-    "rank": 182,
+    "rank": 184,
     "name": "David Raya",
     "position": "Goalkeeper",
     "age": 30,
@@ -3086,7 +3120,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/262749-1668168018.jpg?lm=1"
   },
   {
-    "rank": 183,
+    "rank": 185,
     "name": "Marcus Rashford",
     "position": "Left Winger",
     "age": 27,
@@ -3104,7 +3138,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/258923-1674473054.jpg?lm=1"
   },
   {
-    "rank": 184,
+    "rank": 186,
     "name": "Dominic Solanke",
     "position": "Centre-Forward",
     "age": 28,
@@ -3122,7 +3156,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/258889-1708340487.jpg?lm=1"
   },
   {
-    "rank": 185,
+    "rank": 187,
     "name": "Gregor Kobel",
     "position": "Goalkeeper",
     "age": 27,
@@ -3138,7 +3172,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/257814-1709559904.jpg?lm=1"
   },
   {
-    "rank": 186,
+    "rank": 188,
     "name": "Archie Gray",
     "position": "Right-Back",
     "age": 19,
@@ -3156,7 +3190,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/922693-1695108880.jpg?lm=1"
   },
   {
-    "rank": 187,
+    "rank": 189,
     "name": "Lucas Bergvall",
     "position": "Central Midfield",
     "age": 19,
@@ -3172,7 +3206,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/866246-1701861399.jpg?lm=1"
   },
   {
-    "rank": 188,
+    "rank": 190,
     "name": "Pedro Porro",
     "position": "Right-Back",
     "age": 26,
@@ -3188,7 +3222,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/553875-1730812390.jpg?lm=1"
   },
   {
-    "rank": 189,
+    "rank": 191,
     "name": "Matthijs de Ligt",
     "position": "Centre-Back",
     "age": 26,
@@ -3204,7 +3238,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/326031-1700659567.jpg?lm=1"
   },
   {
-    "rank": 190,
+    "rank": 192,
     "name": "Youri Tielemans",
     "position": "Central Midfield",
     "age": 28,
@@ -3222,7 +3256,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/249565-1716886438.jpg?lm=1"
   },
   {
-    "rank": 191,
+    "rank": 193,
     "name": "Bernardo Silva",
     "position": "Attacking Midfield",
     "age": 31,
@@ -3238,7 +3272,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/241641-1684311533.jpg?lm=1"
   },
   {
-    "rank": 192,
+    "rank": 194,
     "name": "Endrick",
     "position": "Centre-Forward",
     "age": 19,
@@ -3254,25 +3288,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/971570-1723665994.jpg?lm=1"
   },
   {
-    "rank": 193,
-    "name": "Nico Paz",
-    "position": "Attacking Midfield",
-    "age": 21,
-    "nationalities": [
-      "Argentina",
-      "Spain"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
-    ],
-    "club": "Como 1907",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/1047.png?lm=1565704078",
-    "market_value_eur": 3500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/948294-1699472504.jpg?lm=1"
-  },
-  {
-    "rank": 194,
+    "rank": 195,
     "name": "Jorrel Hato",
     "position": "Left-Back",
     "age": 19,
@@ -3290,7 +3306,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/904802-1701361717.jpg?lm=1"
   },
   {
-    "rank": 195,
+    "rank": 196,
     "name": "Santiago Castro",
     "position": "Centre-Forward",
     "age": 21,
@@ -3308,7 +3324,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/849520-1724827267.jpg?lm=1"
   },
   {
-    "rank": 196,
+    "rank": 197,
     "name": "Mathys Tel",
     "position": "Centre-Forward",
     "age": 20,
@@ -3326,7 +3342,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/801734-1700040486.jpg?lm=1"
   },
   {
-    "rank": 197,
+    "rank": 198,
     "name": "Abdukodir Khusanov",
     "position": "Centre-Back",
     "age": 21,
@@ -3342,7 +3358,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/763079-1740493347.jpg?lm=1"
   },
   {
-    "rank": 198,
+    "rank": 199,
     "name": "Andrey Santos",
     "position": "Central Midfield",
     "age": 21,
@@ -3358,7 +3374,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/743600-1732576153.png?lm=1"
   },
   {
-    "rank": 199,
+    "rank": 200,
     "name": "Giuliano Simeone",
     "position": "Right Winger",
     "age": 22,
@@ -3376,7 +3392,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/742201-1741120599.jpg?lm=1"
   },
   {
-    "rank": 200,
+    "rank": 201,
     "name": "Evanilson",
     "position": "Centre-Forward",
     "age": 26,
@@ -3392,7 +3408,25 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/711337-1737452098.jpg?lm=1"
   },
   {
-    "rank": 201,
+    "rank": 202,
+    "name": "Matías Soulé",
+    "position": "Right Winger",
+    "age": 22,
+    "nationalities": [
+      "Argentina",
+      "Italy"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/75.png?lm=1520611569"
+    ],
+    "club": "AS Roma",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/12.png?lm=1751979202",
+    "market_value_eur": 3500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/668951-1725529266.jpg?lm=1"
+  },
+  {
+    "rank": 203,
     "name": "Igor Paixão",
     "position": "Left Winger",
     "age": 25,
@@ -3408,7 +3442,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/653610-1723200804.jpg?lm=1"
   },
   {
-    "rank": 202,
+    "rank": 204,
     "name": "Jhon Durán",
     "position": "Centre-Forward",
     "age": 21,
@@ -3424,7 +3458,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/649317-1753257202.jpg?lm=1"
   },
   {
-    "rank": 203,
+    "rank": 205,
     "name": "Malo Gusto",
     "position": "Right-Back",
     "age": 22,
@@ -3442,23 +3476,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/620322-1752061866.jpg?lm=1"
   },
   {
-    "rank": 204,
-    "name": "Rasmus Højlund",
-    "position": "Centre-Forward",
-    "age": 22,
-    "nationalities": [
-      "Denmark"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/39.png?lm=1520611569"
-    ],
-    "club": "SSC Napoli",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/6195.png?lm=1753167643",
-    "market_value_eur": 3500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/610442-1757931324.jpg?lm=1"
-  },
-  {
-    "rank": 205,
+    "rank": 206,
     "name": "Matheus Nunes",
     "position": "Right-Back",
     "age": 27,
@@ -3476,7 +3494,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/601883-1693561106.jpg?lm=1"
   },
   {
-    "rank": 206,
+    "rank": 207,
     "name": "Rayan Aït-Nouri",
     "position": "Left-Back",
     "age": 24,
@@ -3494,7 +3512,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/578391-1695656762.jpg?lm=1"
   },
   {
-    "rank": 207,
+    "rank": 208,
     "name": "Giorgio Scalvini",
     "position": "Centre-Back",
     "age": 21,
@@ -3510,7 +3528,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/571604-1701860841.jpg?lm=1"
   },
   {
-    "rank": 208,
+    "rank": 209,
     "name": "Enzo Millot",
     "position": "Attacking Midfield",
     "age": 23,
@@ -3528,7 +3546,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/569366-1723707547.jpg?lm=1"
   },
   {
-    "rank": 209,
+    "rank": 210,
     "name": "Edmond Tapsoba",
     "position": "Centre-Back",
     "age": 26,
@@ -3544,7 +3562,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/564545-1695368009.jpg?lm=1"
   },
   {
-    "rank": 210,
+    "rank": 211,
     "name": "Riccardo Calafiori",
     "position": "Left-Back",
     "age": 23,
@@ -3560,7 +3578,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/502821-1727382174.jpg?lm=1"
   },
   {
-    "rank": 211,
+    "rank": 212,
     "name": "Ronald Araujo",
     "position": "Centre-Back",
     "age": 26,
@@ -3578,7 +3596,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/480267-1736431980.jpg?lm=1"
   },
   {
-    "rank": 212,
+    "rank": 213,
     "name": "Andrea Cambiaso",
     "position": "Left Midfield",
     "age": 25,
@@ -3594,7 +3612,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/459658-1662127057.jpg?lm=1"
   },
   {
-    "rank": 213,
+    "rank": 214,
     "name": "Yann Bisseck",
     "position": "Centre-Back",
     "age": 24,
@@ -3612,7 +3630,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/441986-1742497863.jpg?lm=1"
   },
   {
-    "rank": 214,
+    "rank": 215,
     "name": "Charles De Ketelaere",
     "position": "Attacking Midfield",
     "age": 24,
@@ -3628,7 +3646,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/435772-1659601388.jpg?lm=1"
   },
   {
-    "rank": 215,
+    "rank": 216,
     "name": "Nikola Milenković",
     "position": "Centre-Back",
     "age": 27,
@@ -3644,7 +3662,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/413507-1661166461.jpg?lm=1"
   },
   {
-    "rank": 216,
+    "rank": 217,
     "name": "Ezri Konsa",
     "position": "Centre-Back",
     "age": 27,
@@ -3662,7 +3680,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/413403-1700651779.jpg?lm=1"
   },
   {
-    "rank": 217,
+    "rank": 218,
     "name": "Francisco Trincão",
     "position": "Right Winger",
     "age": 25,
@@ -3678,7 +3696,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/412669-1739308729.jpg?lm=1"
   },
   {
-    "rank": 218,
+    "rank": 219,
     "name": "Harvey Barnes",
     "position": "Left Winger",
     "age": 27,
@@ -3696,7 +3714,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/398065-1700650664.jpg?lm=1"
   },
   {
-    "rank": 219,
+    "rank": 220,
     "name": "Davide Frattesi",
     "position": "Central Midfield",
     "age": 26,
@@ -3712,7 +3730,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/394300-1730126974.jpg?lm=1"
   },
   {
-    "rank": 220,
+    "rank": 221,
     "name": "Dan Ndoye",
     "position": "Right Winger",
     "age": 24,
@@ -3728,22 +3746,6 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/703.png?lm=1598890289",
     "market_value_eur": 3500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/365108-1718218474.jpg?lm=1"
-  },
-  {
-    "rank": 221,
-    "name": "Teun Koopmeiners",
-    "position": "Attacking Midfield",
-    "age": 27,
-    "nationalities": [
-      "Netherlands"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/122.png?lm=1520611569"
-    ],
-    "club": "Juventus FC",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/506.png?lm=1626441487",
-    "market_value_eur": 3500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/360518-1707302998.jpg?lm=1"
   },
   {
     "rank": 222,
