@@ -5,12 +5,10 @@
     "position": "Right Winger",
     "age": 18,
     "nationalities": [
-      "Spain",
-      "Equatorial Guinea"
+      "Spain"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/8.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
     ],
     "club": "FC Barcelona",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/131.png?lm=1406739548",
@@ -1100,8 +1098,8 @@
       "https://tmssl.akamaized.net//images/flagge/verysmall/54.png?lm=1520611569",
       "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
     ],
-    "club": "AFC Bournemouth",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/989.png?lm=1457991811",
+    "club": "Manchester City",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/281.png?lm=1467356331",
     "market_value_eur": 6500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/583255-1737452028.jpg?lm=1"
   },
