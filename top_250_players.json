@@ -5,12 +5,10 @@
     "position": "Right Winger",
     "age": 18,
     "nationalities": [
-      "Spain",
-      "Equatorial Guinea"
+      "Spain"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/8.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
     ],
     "club": "FC Barcelona",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/131.png?lm=1406739548",
@@ -715,7 +713,7 @@
     "club": "Manchester United",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/985.png?lm=1457975903",
     "market_value_eur": 7500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/413039-1668505084.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/413039-1769532496.jpg?lm=1"
   },
   {
     "rank": 43,
@@ -4019,7 +4017,7 @@
     "rank": 237,
     "name": "Dušan Vlahović",
     "position": "Centre-Forward",
-    "age": 25,
+    "age": 26,
     "nationalities": [
       "Serbia"
     ],
