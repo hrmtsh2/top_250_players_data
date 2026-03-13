@@ -1051,7 +1051,7 @@
     "club": "Manchester City",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/281.png?lm=1467356331",
     "market_value_eur": 6500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/607223-1672831487.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/607223-1773302431.jpg?lm=1"
   },
   {
     "rank": 63,
@@ -1439,7 +1439,7 @@
     "club": "Manchester City",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/281.png?lm=1467356331",
     "market_value_eur": 6000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/460939-1676466080.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/460939-1773302677.jpg?lm=1"
   },
   {
     "rank": 86,
@@ -3129,7 +3129,7 @@
     "club": "Chelsea FC",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/631.png?lm=1682435911",
     "market_value_eur": 4000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/346314-1698937171.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/346314-1773301391.jpg?lm=1"
   },
   {
     "rank": 185,
@@ -3233,6 +3233,22 @@
   },
   {
     "rank": 191,
+    "name": "Vitor Roque",
+    "position": "Centre-Forward",
+    "age": 21,
+    "nationalities": [
+      "Brazil"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569"
+    ],
+    "club": "Sociedade Esportiva Palmeiras",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/1023.png?lm=1411204983",
+    "market_value_eur": 3800000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/943837-1744743482.jpg?lm=1"
+  },
+  {
+    "rank": 192,
     "name": "Wesley",
     "position": "Right-Back",
     "age": 22,
@@ -3246,22 +3262,6 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/12.png?lm=1751979202",
     "market_value_eur": 3500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/964580-1743167536.jpg?lm=1"
-  },
-  {
-    "rank": 192,
-    "name": "Vitor Roque",
-    "position": "Centre-Forward",
-    "age": 21,
-    "nationalities": [
-      "Brazil"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569"
-    ],
-    "club": "Sociedade Esportiva Palmeiras",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/1023.png?lm=1411204983",
-    "market_value_eur": 3500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/943837-1744743482.jpg?lm=1"
   },
   {
     "rank": 193,
@@ -3743,7 +3743,7 @@
     "rank": 221,
     "name": "James Garner",
     "position": "Defensive Midfield",
-    "age": 24,
+    "age": 25,
     "nationalities": [
       "England"
     ],
