@@ -1613,12 +1613,12 @@
     "position": "Central Midfield",
     "age": 18,
     "nationalities": [
-      "France",
-      "Morocco"
+      "Morocco",
+      "France"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/107.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/107.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569"
     ],
     "club": "LOSC Lille",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/1082.png?lm=1529521041",
