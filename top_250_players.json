@@ -829,7 +829,7 @@
     "club": "Galatasaray",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/141.png?lm=1406739071",
     "market_value_eur": 7500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/401923-1737730981.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/401923-1779788570.jpg?lm=1"
   },
   {
     "rank": 50,
@@ -869,7 +869,7 @@
     "rank": 52,
     "name": "Matheus Cunha",
     "position": "Centre-Forward",
-    "age": 26,
+    "age": 27,
     "nationalities": [
       "Brazil"
     ],
@@ -1015,7 +1015,7 @@
     "club": "Manchester United",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/985.png?lm=1457975903",
     "market_value_eur": 6500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/627442-1713897956.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/627442-1779803478.jpg?lm=1"
   },
   {
     "rank": 61,
@@ -1055,7 +1055,7 @@
     "rank": 63,
     "name": "Jérémy Doku",
     "position": "Left Winger",
-    "age": 23,
+    "age": 24,
     "nationalities": [
       "Belgium",
       "Ghana"
@@ -1989,7 +1989,7 @@
     "club": "FC Barcelona",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/131.png?lm=1406739548",
     "market_value_eur": 5000000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/398184-1699383547.jpg?lm=1"
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/398184-1779789996.jpg?lm=1"
   },
   {
     "rank": 118,
@@ -3470,7 +3470,7 @@
   {
     "rank": 205,
     "name": "Patrick Dorgu",
-    "position": "Left-Back",
+    "position": "Left Winger",
     "age": 21,
     "nationalities": [
       "Denmark",
@@ -4131,24 +4131,6 @@
   },
   {
     "rank": 244,
-    "name": "Lucas Paquetá",
-    "position": "Attacking Midfield",
-    "age": 28,
-    "nationalities": [
-      "Brazil",
-      "Portugal"
-    ],
-    "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569",
-      "https://tmssl.akamaized.net//images/flagge/verysmall/136.png?lm=1520611569"
-    ],
-    "club": "West Ham United",
-    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/379.png?lm=1464675260",
-    "market_value_eur": 3500000000,
-    "image_url": "https://img.a.transfermarkt.technology/portrait/small/444523-1695370009.jpg?lm=1"
-  },
-  {
-    "rank": 245,
     "name": "Charles De Ketelaere",
     "position": "Attacking Midfield",
     "age": 25,
@@ -4164,7 +4146,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/435772-1659601388.jpg?lm=1"
   },
   {
-    "rank": 246,
+    "rank": 245,
     "name": "Curtis Jones",
     "position": "Central Midfield",
     "age": 25,
@@ -4180,7 +4162,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/433188-1701681163.jpg?lm=1"
   },
   {
-    "rank": 247,
+    "rank": 246,
     "name": "Dejan Kulusevski",
     "position": "Attacking Midfield",
     "age": 26,
@@ -4198,7 +4180,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/431755-1684943454.jpg?lm=1"
   },
   {
-    "rank": 248,
+    "rank": 247,
     "name": "Jean-Philippe Mateta",
     "position": "Centre-Forward",
     "age": 28,
@@ -4216,7 +4198,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/420002-1723202650.jpg?lm=1"
   },
   {
-    "rank": 249,
+    "rank": 248,
     "name": "Francisco Trincão",
     "position": "Attacking Midfield",
     "age": 26,
@@ -4232,7 +4214,7 @@
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/412669-1739308729.jpg?lm=1"
   },
   {
-    "rank": 250,
+    "rank": 249,
     "name": "Ismaïla Sarr",
     "position": "Right Winger",
     "age": 28,
@@ -4246,5 +4228,21 @@
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/873.png?lm=1457723287",
     "market_value_eur": 3500000000,
     "image_url": "https://img.a.transfermarkt.technology/portrait/small/410225-1765811669.jpg?lm=1"
+  },
+  {
+    "rank": 250,
+    "name": "Dávid Hancko",
+    "position": "Centre-Back",
+    "age": 28,
+    "nationalities": [
+      "Slovakia"
+    ],
+    "nationality_flags": [
+      "https://tmssl.akamaized.net//images/flagge/verysmall/154.png?lm=1520611569"
+    ],
+    "club": "Atlético de Madrid",
+    "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/13.png?lm=1719915566",
+    "market_value_eur": 3500000000,
+    "image_url": "https://img.a.transfermarkt.technology/portrait/small/404418-1722415670.jpg?lm=1"
   }
 ]
