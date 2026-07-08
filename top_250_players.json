@@ -463,10 +463,12 @@
     "position": "Attacking Midfield",
     "age": 23,
     "nationalities": [
-      "England"
+      "England",
+      "Jamaica"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/76.png?lm=1520611569"
     ],
     "club": "Aston Villa",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/405.png?lm=1717155982",
