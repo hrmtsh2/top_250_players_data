@@ -68,7 +68,7 @@
   {
     "rank": 5,
     "name": "Michael Olise",
-    "position": "Right Winger",
+    "position": "Attacking Midfield",
     "age": 24,
     "nationalities": [
       "France",
@@ -1371,10 +1371,12 @@
     "position": "Right-Back",
     "age": 26,
     "nationalities": [
-      "England"
+      "England",
+      "Grenada"
     ],
     "nationality_flags": [
-      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
+      "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569",
+      "https://tmssl.akamaized.net//images/flagge/verysmall/55.png?lm=1520611569"
     ],
     "club": "Chelsea FC",
     "club_logo": "https://tmssl.akamaized.net//images/wappen/verysmall/631.png?lm=1782931342",
@@ -1721,7 +1723,7 @@
     "rank": 102,
     "name": "Mateus Fernandes",
     "position": "Central Midfield",
-    "age": 21,
+    "age": 22,
     "nationalities": [
       "Portugal"
     ],
@@ -2298,7 +2300,7 @@
   {
     "rank": 136,
     "name": "Myles Lewis-Skelly",
-    "position": "Central Midfield",
+    "position": "Left-Back",
     "age": 19,
     "nationalities": [
       "England",
@@ -2791,7 +2793,7 @@
     "rank": 165,
     "name": "Michael Kayode",
     "position": "Right-Back",
-    "age": 21,
+    "age": 22,
     "nationalities": [
       "Italy",
       "Nigeria"
